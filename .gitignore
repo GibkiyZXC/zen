@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/GibkiyZXC/zen1/refs/heads/main/.gitignore
+loadstring(game:HttpGet(https://raw.githubusercontent.com/GibkiyZXC/zen1/refs/heads/main/.gitignore'))()
